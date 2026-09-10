@@ -1,0 +1,13 @@
+16:39:38 =>[info] service_name:FriendServiceRpc
+16:39:38 =>[info] method name:GetFriendList
+16:41:21 =>[info] service_name:FriendServiceRpc
+16:41:21 =>[info] method name:GetFriendList
+16:45:04 =>[info] service_name:FriendServiceRpc
+16:45:04 =>[info] method name:GetFriendList
+16:45:04 =>[info] Rpcprovide start service at ip:127.0.0.1 port:8080
+18:37:44 =>[info] service_name:FriendServiceRpc
+18:37:44 =>[info] method name:GetFriendList
+18:37:44 =>[info] Rpcprovide start service at ip:127.0.0.1 port:8080
+18:41:51 =>[info] service_name:FriendServiceRpc
+18:41:51 =>[info] method name:GetFriendList
+18:41:51 =>[info] Rpcprovide start service at ip:127.0.0.1 port:8080
